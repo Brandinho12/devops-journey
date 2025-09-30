@@ -28,6 +28,10 @@
 - Used `rm` to delete files.
 - Practiced viewing/editing files with `cat` and `nano`.
 - Created and managed files inside `day2_practice` folder.
+### Bonus Challenge (Day 2)
+- Created `drafts/` and `final/` folders.
+- Wrote a draft article, copied it to final, renamed it, and deleted the draft.
+- Practiced combining Linux commands in sequence.
 
 
 
