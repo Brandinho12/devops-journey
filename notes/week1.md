@@ -32,6 +32,11 @@
 - Created `drafts/` and `final/` folders.
 - Wrote a draft article, copied it to final, renamed it, and deleted the draft.
 - Practiced combining Linux commands in sequence.
+## Day 3 – Linux Permissions
+- Learned how to view file permissions using `ls -l`.
+- Used `chmod` to change permissions (read, write, execute).
+- Created `locked_folder` with restricted access (700).
+- Practiced `chown` to change file ownership.
 
 
 
