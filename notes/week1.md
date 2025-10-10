@@ -37,6 +37,9 @@
 - Used `chmod` to change permissions (read, write, execute).
 - Created `locked_folder` with restricted access (700).
 - Practiced `chown` to change file ownership.
+## Day 4 – Git Branching
+- Learned how to create and switch branches using `git checkout -b`.
+- Practiced making changes on a new branch.
 
 
 
